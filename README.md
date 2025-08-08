@@ -1,6 +1,6 @@
 - Hi, I’m Puneet Mishra
 - I’m interested in physics and finance
-- I’m currently learning scientific computation using Python
+- I’m a masters student in Data Science and AI
 - I’m looking to collaborate on financial modelling
 - 📫 email on mpuneet063@gmail
 - ⚡ Fun fact: Cleopatra lived closer in timeline to the present than when the pyramids were built
